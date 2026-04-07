@@ -35,8 +35,11 @@ tmp/
 temp/
 
 # User content (generated when plugin is used)
-content/
+content/drafts/
 scripts/ralph/
+
+# Track published content
+!content/published/
 
 # Loop state
 .claude/ralph-marketer-loop.local.md
